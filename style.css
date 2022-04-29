@@ -84,7 +84,7 @@ body {
   line-height: var(--bs-body-line-height);
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
-  background: url(./img/tech2.webp);
+  background: url(./bg2.webp);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
