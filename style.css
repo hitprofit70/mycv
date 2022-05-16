@@ -11445,6 +11445,24 @@ section.resume-section .resume-section-content {
 }
 
 .bio a{
-  font-weight: 600;
+  font-weight: 400;
   font-size: 17px;
+}
+
+.flex-grow-1 h3{
+  color: white;
+  font-weight: 400;
+}
+
+.flex-grow-1 h4{
+  color: white;
+  font-weight: 400;
+}
+
+.d-flex span{
+  margin-right: 60px;
+}
+
+.heading h3{
+  font-weight: 300;
 }
