@@ -11437,3 +11437,14 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.icon a{
+  margin-left: 20px;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.bio a{
+  font-weight: 600;
+  font-size: 17px;
+}
