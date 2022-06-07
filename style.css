@@ -11446,7 +11446,7 @@ section.resume-section .resume-section-content {
 
 .bio a{
   font-weight: 500;
-  font-size: 17px;
+  font-size: 21px;
 }
 
 .flex-grow-1 h3{
@@ -11467,4 +11467,12 @@ section.resume-section .resume-section-content {
 
 .heading h3{
   font-weight: 300;
+}
+
+.flex-grow-1 p{
+  font-size: 21px;
+}
+
+.resume-section-content p{
+  font-size: 21px;
 }
